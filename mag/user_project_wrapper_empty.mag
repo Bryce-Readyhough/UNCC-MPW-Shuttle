@@ -1,6 +1,6 @@
 magic
 tech sky130A
-timestamp 1603382008
+timestamp 1606420262
 << metal2 >>
 rect 4793 269760 4821 270000
 rect 14407 269760 14435 270000
@@ -616,6 +616,10 @@ rect 0 8776 240 8836
 rect 269760 8368 270000 8428
 rect 0 2928 240 2988
 rect 269760 2792 270000 2852
+use chip-2  chip-2_0 ~/UNCCCaravel/UNCC-MPW-Shuttle/mag/tinysky
+timestamp 1606345435
+transform 1 0 150722 0 1 76312
+box -12242 -4023 9920 9117
 << labels >>
 rlabel metal3 s 269760 2792 270000 2852 6 io_in[0]
 port 0 nsew default input

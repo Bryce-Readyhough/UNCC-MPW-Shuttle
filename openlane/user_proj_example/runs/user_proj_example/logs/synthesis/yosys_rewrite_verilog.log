@@ -435,25 +435,25 @@ Generating RTLIL representation for module `\user_proj_example'.
 /project/openlane/user_proj_example/runs/user_proj_example/results/lvs/user_proj_example.lvs.powered.v:3023: Warning: Identifier `\_0096_' is implicitly declared.
 /project/openlane/user_proj_example/runs/user_proj_example/results/lvs/user_proj_example.lvs.powered.v:3953: Warning: Identifier `\clknet_3_1_0_counter.clk' is implicitly declared.
 /project/openlane/user_proj_example/runs/user_proj_example/results/lvs/user_proj_example.lvs.powered.v:3960: Warning: Identifier `\clknet_3_0_0_counter.clk' is implicitly declared.
-/project/openlane/user_proj_example/runs/user_proj_example/results/lvs/user_proj_example.lvs.powered.v:3974: Warning: Identifier `\clknet_3_5_0_counter.clk' is implicitly declared.
-/project/openlane/user_proj_example/runs/user_proj_example/results/lvs/user_proj_example.lvs.powered.v:3981: Warning: Identifier `\clknet_3_7_0_counter.clk' is implicitly declared.
-/project/openlane/user_proj_example/runs/user_proj_example/results/lvs/user_proj_example.lvs.powered.v:4023: Warning: Identifier `\clknet_3_2_0_counter.clk' is implicitly declared.
-/project/openlane/user_proj_example/runs/user_proj_example/results/lvs/user_proj_example.lvs.powered.v:4121: Warning: Identifier `\clknet_3_4_0_counter.clk' is implicitly declared.
-/project/openlane/user_proj_example/runs/user_proj_example/results/lvs/user_proj_example.lvs.powered.v:4149: Warning: Identifier `\clknet_3_6_0_counter.clk' is implicitly declared.
-/project/openlane/user_proj_example/runs/user_proj_example/results/lvs/user_proj_example.lvs.powered.v:4177: Warning: Identifier `\clknet_3_3_0_counter.clk' is implicitly declared.
-/project/openlane/user_proj_example/runs/user_proj_example/results/lvs/user_proj_example.lvs.powered.v:6655: Warning: Identifier `\clknet_0_counter.clk' is implicitly declared.
-/project/openlane/user_proj_example/runs/user_proj_example/results/lvs/user_proj_example.lvs.powered.v:6661: Warning: Identifier `\clknet_1_0_0_counter.clk' is implicitly declared.
-/project/openlane/user_proj_example/runs/user_proj_example/results/lvs/user_proj_example.lvs.powered.v:6667: Warning: Identifier `\clknet_1_1_0_counter.clk' is implicitly declared.
-/project/openlane/user_proj_example/runs/user_proj_example/results/lvs/user_proj_example.lvs.powered.v:6673: Warning: Identifier `\clknet_2_0_0_counter.clk' is implicitly declared.
-/project/openlane/user_proj_example/runs/user_proj_example/results/lvs/user_proj_example.lvs.powered.v:6679: Warning: Identifier `\clknet_2_1_0_counter.clk' is implicitly declared.
-/project/openlane/user_proj_example/runs/user_proj_example/results/lvs/user_proj_example.lvs.powered.v:6685: Warning: Identifier `\clknet_2_2_0_counter.clk' is implicitly declared.
-/project/openlane/user_proj_example/runs/user_proj_example/results/lvs/user_proj_example.lvs.powered.v:6691: Warning: Identifier `\clknet_2_3_0_counter.clk' is implicitly declared.
+/project/openlane/user_proj_example/runs/user_proj_example/results/lvs/user_proj_example.lvs.powered.v:4177: Warning: Identifier `\clknet_3_2_0_counter.clk' is implicitly declared.
+/project/openlane/user_proj_example/runs/user_proj_example/results/lvs/user_proj_example.lvs.powered.v:4184: Warning: Identifier `\clknet_3_3_0_counter.clk' is implicitly declared.
+/project/openlane/user_proj_example/runs/user_proj_example/results/lvs/user_proj_example.lvs.powered.v:4219: Warning: Identifier `\clknet_3_6_0_counter.clk' is implicitly declared.
+/project/openlane/user_proj_example/runs/user_proj_example/results/lvs/user_proj_example.lvs.powered.v:4226: Warning: Identifier `\clknet_3_4_0_counter.clk' is implicitly declared.
+/project/openlane/user_proj_example/runs/user_proj_example/results/lvs/user_proj_example.lvs.powered.v:4254: Warning: Identifier `\clknet_3_7_0_counter.clk' is implicitly declared.
+/project/openlane/user_proj_example/runs/user_proj_example/results/lvs/user_proj_example.lvs.powered.v:4275: Warning: Identifier `\clknet_3_5_0_counter.clk' is implicitly declared.
+/project/openlane/user_proj_example/runs/user_proj_example/results/lvs/user_proj_example.lvs.powered.v:15101: Warning: Identifier `\clknet_0_counter.clk' is implicitly declared.
+/project/openlane/user_proj_example/runs/user_proj_example/results/lvs/user_proj_example.lvs.powered.v:15107: Warning: Identifier `\clknet_1_0_0_counter.clk' is implicitly declared.
+/project/openlane/user_proj_example/runs/user_proj_example/results/lvs/user_proj_example.lvs.powered.v:15113: Warning: Identifier `\clknet_1_1_0_counter.clk' is implicitly declared.
+/project/openlane/user_proj_example/runs/user_proj_example/results/lvs/user_proj_example.lvs.powered.v:15119: Warning: Identifier `\clknet_2_0_0_counter.clk' is implicitly declared.
+/project/openlane/user_proj_example/runs/user_proj_example/results/lvs/user_proj_example.lvs.powered.v:15125: Warning: Identifier `\clknet_2_1_0_counter.clk' is implicitly declared.
+/project/openlane/user_proj_example/runs/user_proj_example/results/lvs/user_proj_example.lvs.powered.v:15131: Warning: Identifier `\clknet_2_2_0_counter.clk' is implicitly declared.
+/project/openlane/user_proj_example/runs/user_proj_example/results/lvs/user_proj_example.lvs.powered.v:15137: Warning: Identifier `\clknet_2_3_0_counter.clk' is implicitly declared.
 Successfully finished Verilog frontend.
 
 2. Executing Verilog backend.
 Dumping module `\user_proj_example'.
 
 Warnings: 418 unique messages, 418 total
-End of script. Logfile hash: af13d1a317, CPU: user 3.51s system 0.01s, MEM: 55.10 MB peak
+End of script. Logfile hash: f489b29f75, CPU: user 9.50s system 0.08s, MEM: 237.26 MB peak
 Yosys 0.9+3621 (git sha1 84e9fa7, gcc 8.3.1 -fPIC -Os)
-Time spent: 74% 2x write_verilog (2 sec), 25% 2x read_verilog (0 sec)
+Time spent: 69% 2x write_verilog (6 sec), 30% 2x read_verilog (2 sec)

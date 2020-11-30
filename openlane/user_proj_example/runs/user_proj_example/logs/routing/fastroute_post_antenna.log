@@ -1,19 +1,19 @@
-OpenROAD 0.9.0 e582f2522b
+OpenROAD 0.9.0 70f7b682b3
 This program is licensed under the BSD-3 license. See the LICENSE file for details. 
 Components of this program may be licensed under more restrictive licenses which must be honored.
-Warning: /home/xrex/usr/devel/pdks/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib, line 31 default_operating_condition tt_025C_1v80 not found.
+Warning: /home/bryce/newpdks/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib, line 31 default_operating_condition tt_025C_1v80 not found.
 Notice 0: Reading LEF file:  /project/openlane/user_proj_example/runs/user_proj_example/tmp/merged_unpadded.lef
 Notice 0:     Created 13 technology layers
 Notice 0:     Created 25 technology vias
-Notice 0:     Created 437 library cells
+Notice 0:     Created 438 library cells
 Notice 0: Finished LEF file:  /project/openlane/user_proj_example/runs/user_proj_example/tmp/merged_unpadded.lef
 Notice 0: 
 Reading DEF file: /project/openlane/user_proj_example/runs/user_proj_example/tmp/routing/fastroute.def
 Notice 0: Design: user_proj_example
 Notice 0:     Created 614 pins.
-Notice 0:     Created 1541 components and 6833 component-terminals.
-Notice 0:     Created 2 special nets and 0 connections.
-Notice 0:     Created 1030 nets and 1926 connections.
+Notice 0:     Created 5502 components and 15259 component-terminals.
+Notice 0:     Created 2 special nets and 13234 connections.
+Notice 0:     Created 1030 nets and 1922 connections.
 Notice 0: Finished DEF file: /project/openlane/user_proj_example/runs/user_proj_example/tmp/routing/fastroute.def
 [PARAMS] Min routing layer: 2
 [PARAMS] Max routing layer: 6
@@ -21,31 +21,25 @@ Notice 0: Finished DEF file: /project/openlane/user_proj_example/runs/user_proj_
 [PARAMS] Unidirectional routing: 1
 [PARAMS] Grid origin: (-1, -1)
 [INFO] #DB Obstructions: 0
-[INFO] #DB Obstacles: 35512
+[INFO] #DB Obstacles: 60832
 [INFO] #DB Macros: 0
 [INFO] Found 0 clock nets
 [INFO] Minimum degree: 2
 [INFO] Maximum degree: 42
-[INFO] Processing 24585 obstacles in layer 1
-[INFO] Processing 4874 obstacles in layer 2
-[INFO] Processing 3 obstacles in layer 5
-[INFO] Processing 3 obstacles in layer 6
+[INFO] Processing 40955 obstacles on layer 1
+[INFO] Processing 12925 obstacles on layer 2
+[INFO] Processing 8 obstacles on layer 5
 [INFO] Reducing resources of layer 1 by 99%
-[INFO] Reducing resources of layer 2 by 20%
-[INFO] Reducing resources of layer 3 by 20%
-[INFO] Reducing resources of layer 4 by 20%
-[INFO] Reducing resources of layer 5 by 10%
-[INFO] Reducing resources of layer 6 by 10%
-[INFO] WIRELEN : 6986, WIRELEN1 : 0
-[INFO] NumSeg  : 1626
+[INFO] WIRELEN : 8736, WIRELEN1 : 0
+[INFO] NumSeg  : 1598
 [INFO] NumShift: 0
 First L Route
-[INFO] WIRELEN : 6988, WIRELEN1 : 6988
-[INFO] NumSeg  : 1616
-[INFO] NumShift: 52
-[Overflow Report] Total hCap    : 28207
-[Overflow Report] Total vCap    : 22826
-[Overflow Report] Total Usage   : 6988
+[INFO] WIRELEN : 8747, WIRELEN1 : 8747
+[INFO] NumSeg  : 1583
+[INFO] NumShift: 39
+[Overflow Report] Total hCap    : 216482
+[Overflow Report] Total vCap    : 161763
+[Overflow Report] Total Usage   : 8747
 [Overflow Report] Max H Overflow: 0
 [Overflow Report] Max V Overflow: 0
 [Overflow Report] Max Overflow  : 0
@@ -55,9 +49,9 @@ First L Route
 [Overflow Report] Final Overflow: 0
 
 Second L Route
-[Overflow Report] Total hCap    : 28207
-[Overflow Report] Total vCap    : 22826
-[Overflow Report] Total Usage   : 6988
+[Overflow Report] Total hCap    : 216482
+[Overflow Report] Total vCap    : 161763
+[Overflow Report] Total Usage   : 8747
 [Overflow Report] Max H Overflow: 0
 [Overflow Report] Max V Overflow: 0
 [Overflow Report] Max Overflow  : 0
@@ -67,9 +61,9 @@ Second L Route
 [Overflow Report] Final Overflow: 0
 
 First Z Route
-[Overflow Report] Total hCap    : 28207
-[Overflow Report] Total vCap    : 22826
-[Overflow Report] Total Usage   : 6988
+[Overflow Report] Total hCap    : 216482
+[Overflow Report] Total vCap    : 161763
+[Overflow Report] Total Usage   : 8747
 [Overflow Report] Max H Overflow: 0
 [Overflow Report] Max V Overflow: 0
 [Overflow Report] Max Overflow  : 0
@@ -80,7 +74,7 @@ First Z Route
 
 [INFO] LV routing round 0, enlarge 10 
 [INFO] 10 threshold, 10 expand
-[Overflow Report] total Usage   : 6988
+[Overflow Report] total Usage   : 8747
 [Overflow Report] Max H Overflow: 0
 [Overflow Report] Max V Overflow: 0
 [Overflow Report] Max Overflow  : 0
@@ -91,7 +85,7 @@ First Z Route
 
 [INFO] LV routing round 1, enlarge 15 
 [INFO] 5 threshold, 15 expand
-[Overflow Report] total Usage   : 6988
+[Overflow Report] total Usage   : 8747
 [Overflow Report] Max H Overflow: 0
 [Overflow Report] Max V Overflow: 0
 [Overflow Report] Max Overflow  : 0
@@ -102,7 +96,7 @@ First Z Route
 
 [INFO] LV routing round 2, enlarge 20 
 [INFO] 1 threshold, 20 expand
-[Overflow Report] total Usage   : 6988
+[Overflow Report] total Usage   : 8747
 [Overflow Report] Max H Overflow: 0
 [Overflow Report] Max V Overflow: 0
 [Overflow Report] Max Overflow  : 0
@@ -115,7 +109,7 @@ Usage checked
 Maze routing finished
 [INFO] P3 runtime: 0.000000 sec
 [INFO] Final 2D results: 
-[Overflow Report] total Usage   : 6988
+[Overflow Report] total Usage   : 8747
 [Overflow Report] Max H Overflow: 0
 [Overflow Report] Max V Overflow: 0
 [Overflow Report] Max Overflow  : 0
@@ -126,38 +120,38 @@ Maze routing finished
 
 Layer Assignment Begins
 Layer assignment finished
-[INFO] 2D + Layer Assignment Runtime: 4.230000 sec
+[INFO] 2D + Layer Assignment Runtime: 2.840000 sec
 Post Processing Begins 
 Post Processsing finished
  Starting via filling
-[INFO] Via related to pin nodes 3087
-[INFO] Via related stiner nodes 246
+[INFO] Via related to pin nodes 3047
+[INFO] Via related stiner nodes 238
 Via filling finished
 
 Final usage/overflow report: 
 [INFO] Usage per layer: 
     Layer 1 usage: 0
-    Layer 2 usage: 3445
-    Layer 3 usage: 3092
-    Layer 4 usage: 378
-    Layer 5 usage: 49
-    Layer 6 usage: 31
+    Layer 2 usage: 3693
+    Layer 3 usage: 4569
+    Layer 4 usage: 449
+    Layer 5 usage: 11
+    Layer 6 usage: 43
 
 [INFO] Capacity per layer: 
     Layer 1 capacity: 0
-    Layer 2 capacity: 16762
-    Layer 3 capacity: 15260
-    Layer 4 capacity: 10185
-    Layer 5 capacity: 7566
-    Layer 6 capacity: 1260
+    Layer 2 capacity: 128082
+    Layer 3 capacity: 110670
+    Layer 4 capacity: 73780
+    Layer 5 capacity: 51093
+    Layer 6 capacity: 14620
 
 [INFO] Use percentage per layer: 
     Layer 1 use percentage: 0.0%
-    Layer 2 use percentage: 20.55%
-    Layer 3 use percentage: 20.26%
-    Layer 4 use percentage: 3.71%
-    Layer 5 use percentage: 0.65%
-    Layer 6 use percentage: 2.46%
+    Layer 2 use percentage: 2.88%
+    Layer 3 use percentage: 4.13%
+    Layer 4 use percentage: 0.61%
+    Layer 5 use percentage: 0.02%
+    Layer 6 use percentage: 0.29%
 
 [INFO] Overflow per layer: 
     Layer 1 overflow: 0
@@ -167,8 +161,8 @@ Final usage/overflow report:
     Layer 5 overflow: 0
     Layer 6 overflow: 0
 
-[Overflow Report] Total Usage   : 6995
-[Overflow Report] Total Capacity: 51033
+[Overflow Report] Total Usage   : 8765
+[Overflow Report] Total Capacity: 378245
 [Overflow Report] Max H Overflow: 0
 [Overflow Report] Max V Overflow: 0
 [Overflow Report] Max Overflow  : 0
@@ -176,8 +170,12 @@ Final usage/overflow report:
 [Overflow Report] V   Overflow  : 0
 [Overflow Report] Final Overflow: 0
 
-[INFO] Final usage          : 6995
-[INFO] Final number of vias : 4026
-[INFO] Final usage 3D       : 19073
-[INFO] Total wirelength: 71097 um
+[INFO] Final usage          : 8765
+[INFO] Final number of vias : 4019
+[INFO] Final usage 3D       : 20822
+[INFO] Total wirelength: 83448 um
 [INFO] Num routed nets: 764
+Warning: /home/bryce/newpdks/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ss_100C_1v60.lib, line 32 default_operating_condition ss_100C_1v60 not found.
+Warning: /home/bryce/newpdks/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib, line 31 default_operating_condition ff_n40C_1v95 not found.
+create_clock [get_ports $::env(CLOCK_PORT)]  -name $::env(CLOCK_PORT)  -period $::env(CLOCK_PERIOD)
+Error: base.sdc, 1 can't read "::env(CLOCK_PORT)": no such variable

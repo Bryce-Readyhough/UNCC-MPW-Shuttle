@@ -63,10 +63,10 @@ Removed 0 unused modules.
 
 === user_project_wrapper ===
 
-   Number of wires:                 25
-   Number of wire bits:            613
-   Number of public wires:          25
-   Number of public wire bits:     613
+   Number of wires:                 18
+   Number of wire bits:            636
+   Number of public wires:          18
+   Number of public wire bits:     636
    Number of memories:               0
    Number of memory bits:            0
    Number of processes:              0
@@ -86,10 +86,10 @@ found and reported 0 problems.
 
 === user_project_wrapper ===
 
-   Number of wires:                 25
-   Number of wire bits:            613
-   Number of public wires:          25
-   Number of public wire bits:     613
+   Number of wires:                 18
+   Number of wire bits:            636
+   Number of public wires:          18
+   Number of public wire bits:     636
    Number of memories:               0
    Number of memory bits:            0
    Number of processes:              0
@@ -101,6 +101,6 @@ found and reported 0 problems.
 12. Executing Verilog backend.
 Dumping module `\user_project_wrapper'.
 
-End of script. Logfile hash: 8e6757d851, CPU: user 0.05s system 0.00s, MEM: 13.29 MB peak
+End of script. Logfile hash: 27cefe81f7, CPU: user 0.04s system 0.00s, MEM: 13.24 MB peak
 Yosys 0.9+3621 (git sha1 84e9fa7, gcc 8.3.1 -fPIC -Os)
-Time spent: 65% 2x stat (0 sec), 16% 8x read_verilog (0 sec), ...
+Time spent: 64% 2x stat (0 sec), 18% 8x read_verilog (0 sec), ...

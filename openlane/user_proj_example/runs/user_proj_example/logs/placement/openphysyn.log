@@ -1,55 +1,100 @@
-[OpenPhySyn] [2020-11-11 04:07:06.176] [info] Loaded 6 transforms.
-[OpenPhySyn] [2020-11-11 04:07:06.541] [info] OpenPhySyn: 1.8.1
+[OpenPhySyn] [2020-11-26 21:33:37.074] [info] Loaded 6 transforms.
+[OpenPhySyn] [2020-11-26 21:33:37.314] [info] OpenPhySyn: 1.8.1
 Warning: /project/openlane/user_proj_example/runs/user_proj_example/tmp/opt.lib, line 32 default_operating_condition ss_100C_1v60 not found.
 Notice 0: Reading LEF file:  /project/openlane/user_proj_example/runs/user_proj_example/tmp/merged_unpadded.lef
 Notice 0:     Created 13 technology layers
 Notice 0:     Created 25 technology vias
-Notice 0:     Created 437 library cells
+Notice 0:     Created 438 library cells
 Notice 0: Finished LEF file:  /project/openlane/user_proj_example/runs/user_proj_example/tmp/merged_unpadded.lef
 Notice 0: 
 Reading DEF file: /project/openlane/user_proj_example/runs/user_proj_example/tmp/placement/replace.def
 Notice 0: Design: user_proj_example
 Notice 0:     Created 612 pins.
-Notice 0:     Created 1518 components and 6703 component-terminals.
+Notice 0:     Created 5483 components and 15149 component-terminals.
 Notice 0:     Created 1015 nets and 1888 connections.
 Notice 0: Finished DEF file: /project/openlane/user_proj_example/runs/user_proj_example/tmp/placement/replace.def
 Error: base.sdc, 1 can't read "::env(CLOCK_PORT)": no such variable
 =============== Initial Reports =============
 No paths found.
+max slew
+
+Pin                                    Limit    Slew   Slack
+------------------------------------------------------------
+_0944_/A                                1.50    1.61   -0.11 (VIOLATED)
+_0943_/A                                1.50    1.61   -0.11 (VIOLATED)
+_0942_/A                                1.50    1.61   -0.11 (VIOLATED)
+_0941_/A                                1.50    1.61   -0.11 (VIOLATED)
+_0940_/A                                1.50    1.61   -0.11 (VIOLATED)
+_0939_/A                                1.50    1.61   -0.11 (VIOLATED)
+_0938_/A                                1.50    1.61   -0.11 (VIOLATED)
+_0937_/A                                1.50    1.61   -0.11 (VIOLATED)
+_0936_/A                                1.50    1.61   -0.11 (VIOLATED)
+_0935_/A                                1.50    1.60   -0.10 (VIOLATED)
+_0934_/A                                1.50    1.60   -0.10 (VIOLATED)
+_0933_/A                                1.50    1.60   -0.10 (VIOLATED)
+_0932_/A                                1.50    1.60   -0.10 (VIOLATED)
+_0931_/A                                1.50    1.60   -0.10 (VIOLATED)
+_0930_/A                                1.50    1.60   -0.10 (VIOLATED)
+_0929_/A                                1.50    1.60   -0.10 (VIOLATED)
+_0928_/A                                1.50    1.60   -0.10 (VIOLATED)
+_0927_/A                                1.50    1.60   -0.10 (VIOLATED)
+_0926_/A                                1.50    1.60   -0.10 (VIOLATED)
+_0925_/A                                1.50    1.60   -0.10 (VIOLATED)
+_0924_/A                                1.50    1.60   -0.10 (VIOLATED)
+_0923_/A                                1.50    1.60   -0.10 (VIOLATED)
+_0922_/A                                1.50    1.60   -0.10 (VIOLATED)
+_0921_/A                                1.50    1.60   -0.10 (VIOLATED)
+_0920_/A                                1.50    1.60   -0.10 (VIOLATED)
+_0909_/A                                1.50    1.60   -0.10 (VIOLATED)
+_0910_/A                                1.50    1.60   -0.10 (VIOLATED)
+_0911_/A                                1.50    1.60   -0.10 (VIOLATED)
+_0912_/A                                1.50    1.60   -0.10 (VIOLATED)
+_0913_/A                                1.50    1.60   -0.10 (VIOLATED)
+_0919_/A                                1.50    1.60   -0.10 (VIOLATED)
+_0914_/A                                1.50    1.60   -0.10 (VIOLATED)
+_0915_/A                                1.50    1.60   -0.10 (VIOLATED)
+_0916_/A                                1.50    1.60   -0.10 (VIOLATED)
+_0917_/A                                1.50    1.60   -0.10 (VIOLATED)
+_0918_/A                                1.50    1.60   -0.10 (VIOLATED)
+_0520_/B1                               1.50    1.60   -0.10 (VIOLATED)
+_0531_/B1                               1.50    1.60   -0.10 (VIOLATED)
+_0540_/B1                               1.50    1.60   -0.10 (VIOLATED)
+_0567_/B1                               1.50    1.60   -0.10 (VIOLATED)
+_0405_/X                                1.51    1.60   -0.09 (VIOLATED)
+
 Capacitance violations: 0
-Transition violations: 0
+Transition violations: 41
 wns 0.00
 tns 0.00
-Initial area: 88061 um2
+Initial area: 144136 um2
 OpenPhySyn timing repair:
-[OpenPhySyn] [2020-11-11 04:07:11.063] [info] Invoking repair_timing transform
-[OpenPhySyn] [2020-11-11 04:07:11.071] [info] Buffer library: sky130_fd_sc_hd__buf_4, sky130_fd_sc_hd__buf_8, sky130_fd_sc_hd__buf_2
-[OpenPhySyn] [2020-11-11 04:07:11.071] [info] Inverter library: None
-[OpenPhySyn] [2020-11-11 04:07:11.071] [info] Buffering: enabled
-[OpenPhySyn] [2020-11-11 04:07:11.071] [info] Driver sizing: enabled
-[OpenPhySyn] [2020-11-11 04:07:11.071] [info] Pin-swapping: enabled
-[OpenPhySyn] [2020-11-11 04:07:11.071] [info] Mode: Timing-Driven
-[OpenPhySyn] [2020-11-11 04:07:11.071] [info] Iteration 1
-[OpenPhySyn] [2020-11-11 04:07:11.223] [info] No more violations or cannot find more optimal buffer
-[OpenPhySyn] [2020-11-11 04:07:11.223] [info] Runtime: 0s
-[OpenPhySyn] [2020-11-11 04:07:11.223] [info] Buffers: 0
-[OpenPhySyn] [2020-11-11 04:07:11.223] [info] Resize up: 0
-[OpenPhySyn] [2020-11-11 04:07:11.223] [info] Resize down: 0
-[OpenPhySyn] [2020-11-11 04:07:11.223] [info] Pin Swap: 0
-[OpenPhySyn] [2020-11-11 04:07:11.223] [info] Buffered nets: 0
-[OpenPhySyn] [2020-11-11 04:07:11.223] [info] Fanout violations: 0
-[OpenPhySyn] [2020-11-11 04:07:11.223] [info] Transition violations: 0
-[OpenPhySyn] [2020-11-11 04:07:11.223] [info] Capacitance violations: 0
-[OpenPhySyn] [2020-11-11 04:07:11.223] [info] Slack gain: 0.0
-[OpenPhySyn] [2020-11-11 04:07:11.223] [info] Initial area: 8806
-[OpenPhySyn] [2020-11-11 04:07:11.223] [info] New area: 8806
-[OpenPhySyn] [2020-11-11 04:07:11.223] [info] Finished repair_timing transform (0)
-Added/updated 0 cells
+[OpenPhySyn] [2020-11-26 21:33:40.320] [info] Invoking repair_timing transform
+[OpenPhySyn] [2020-11-26 21:33:40.327] [info] Buffer library: sky130_fd_sc_hd__buf_4, sky130_fd_sc_hd__buf_8, sky130_fd_sc_hd__buf_2
+[OpenPhySyn] [2020-11-26 21:33:40.327] [info] Inverter library: None
+[OpenPhySyn] [2020-11-26 21:33:40.327] [info] Buffering: enabled
+[OpenPhySyn] [2020-11-26 21:33:40.327] [info] Driver sizing: enabled
+[OpenPhySyn] [2020-11-26 21:33:40.327] [info] Pin-swapping: enabled
+[OpenPhySyn] [2020-11-26 21:33:40.327] [info] Mode: Timing-Driven
+[OpenPhySyn] [2020-11-26 21:33:40.327] [info] Iteration 1
+[OpenPhySyn] [2020-11-26 21:33:40.489] [info] Runtime: 0s
+[OpenPhySyn] [2020-11-26 21:33:40.489] [info] Buffers: 0
+[OpenPhySyn] [2020-11-26 21:33:40.489] [info] Resize up: 1
+[OpenPhySyn] [2020-11-26 21:33:40.489] [info] Resize down: 0
+[OpenPhySyn] [2020-11-26 21:33:40.489] [info] Pin Swap: 0
+[OpenPhySyn] [2020-11-26 21:33:40.489] [info] Buffered nets: 1
+[OpenPhySyn] [2020-11-26 21:33:40.489] [info] Fanout violations: 0
+[OpenPhySyn] [2020-11-26 21:33:40.489] [info] Transition violations: 41
+[OpenPhySyn] [2020-11-26 21:33:40.489] [info] Capacitance violations: 0
+[OpenPhySyn] [2020-11-26 21:33:40.489] [info] Slack gain: 3.46912e-10
+[OpenPhySyn] [2020-11-26 21:33:40.489] [info] Initial area: 14414
+[OpenPhySyn] [2020-11-26 21:33:40.489] [info] New area: 14416
+[OpenPhySyn] [2020-11-26 21:33:40.489] [info] Finished repair_timing transform (1)
+Added/updated 1 cells
 =============== Final Reports =============
 No paths found.
 Capacitance violations: 0
 Transition violations: 0
 wns 0.00
 tns 0.00
-Final area: 88061 um2
+Final area: 144161 um2
 Export optimized design

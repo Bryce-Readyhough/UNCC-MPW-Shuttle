@@ -6,5 +6,5 @@ outputTA:/project/openlane/user_proj_example/runs/user_proj_example/tmp/routing/
 outputguide:/project/openlane/user_proj_example/runs/user_proj_example/tmp/routing/tritonRoute.guide
 outputDRC:/project/openlane/user_proj_example/runs/user_proj_example/reports/routing/tritonRoute.drc
 outputMaze:/project/openlane/user_proj_example/runs/user_proj_example/tmp/routing/tritonRoute_maze.log
-threads:3
+threads:4
 verbose:1

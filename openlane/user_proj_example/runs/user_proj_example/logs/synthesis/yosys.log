@@ -81,7 +81,7 @@ Removed 0 unused modules.
 Cleaned up 0 empty switches.
 
 5.2.2. Executing PROC_RMDEAD pass (remove dead branches from decision trees).
-Marked 1 switch rules as full_case in process $proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:124$112 in module $paramod\counter\BITS=32.
+Marked 1 switch rules as full_case in process $proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:125$112 in module $paramod\counter\BITS=32.
 Removed a total of 0 dead cases.
 
 5.2.3. Executing PROC_PRUNE pass (remove redundant assignments in processes).
@@ -93,71 +93,71 @@ Promoted 0 assignments to connections.
 5.2.5. Executing PROC_ARST pass (detect async resets in processes).
 
 5.2.6. Executing PROC_MUX pass (convert decision trees to multiplexers).
-Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$149'.
+Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$149'.
      1/1: $0\count[31:31]
-Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$148'.
+Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$148'.
      1/1: $0\count[30:30]
-Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$147'.
+Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$147'.
      1/1: $0\count[29:29]
-Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$146'.
+Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$146'.
      1/1: $0\count[28:28]
-Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$145'.
+Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$145'.
      1/1: $0\count[27:27]
-Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$144'.
+Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$144'.
      1/1: $0\count[26:26]
-Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$143'.
+Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$143'.
      1/1: $0\count[25:25]
-Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$142'.
+Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$142'.
      1/1: $0\count[24:24]
-Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$141'.
+Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$141'.
      1/1: $0\count[23:23]
-Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$140'.
+Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$140'.
      1/1: $0\count[22:22]
-Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$139'.
+Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$139'.
      1/1: $0\count[21:21]
-Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$138'.
+Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$138'.
      1/1: $0\count[20:20]
-Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$137'.
+Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$137'.
      1/1: $0\count[19:19]
-Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$136'.
+Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$136'.
      1/1: $0\count[18:18]
-Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$135'.
+Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$135'.
      1/1: $0\count[17:17]
-Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$134'.
+Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$134'.
      1/1: $0\count[16:16]
-Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$133'.
+Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$133'.
      1/1: $0\count[15:15]
-Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$132'.
+Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$132'.
      1/1: $0\count[14:14]
-Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$131'.
+Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$131'.
      1/1: $0\count[13:13]
-Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$130'.
+Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$130'.
      1/1: $0\count[12:12]
-Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$129'.
+Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$129'.
      1/1: $0\count[11:11]
-Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$128'.
+Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$128'.
      1/1: $0\count[10:10]
-Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$127'.
+Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$127'.
      1/1: $0\count[9:9]
-Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$126'.
+Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$126'.
      1/1: $0\count[8:8]
-Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$125'.
+Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$125'.
      1/1: $0\count[7:7]
-Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$124'.
+Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$124'.
      1/1: $0\count[6:6]
-Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$123'.
+Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$123'.
      1/1: $0\count[5:5]
-Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$122'.
+Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$122'.
      1/1: $0\count[4:4]
-Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$121'.
+Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$121'.
      1/1: $0\count[3:3]
-Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$120'.
+Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$120'.
      1/1: $0\count[2:2]
-Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$119'.
+Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$119'.
      1/1: $0\count[1:1]
-Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$118'.
+Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$118'.
      1/1: $0\count[0:0]
-Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:124$112'.
+Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:125$112'.
      1/6: $0\count[31:0] [31:24]
      2/6: $0\count[31:0] [23:16]
      3/6: $0\count[31:0] [15:8]
@@ -168,144 +168,144 @@ Creating decoders for process `$paramod\counter\BITS=32.$proc$/project/openlane/
 5.2.7. Executing PROC_DLATCH pass (convert process syncs to latches).
 
 5.2.8. Executing PROC_DFF pass (convert process syncs to FFs).
-Creating register for signal `$paramod\counter\BITS=32.\count [31]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$149'.
+Creating register for signal `$paramod\counter\BITS=32.\count [31]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$149'.
   created $dff cell `$procdff$260' with positive edge clock.
-Creating register for signal `$paramod\counter\BITS=32.\count [30]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$148'.
+Creating register for signal `$paramod\counter\BITS=32.\count [30]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$148'.
   created $dff cell `$procdff$261' with positive edge clock.
-Creating register for signal `$paramod\counter\BITS=32.\count [29]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$147'.
+Creating register for signal `$paramod\counter\BITS=32.\count [29]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$147'.
   created $dff cell `$procdff$262' with positive edge clock.
-Creating register for signal `$paramod\counter\BITS=32.\count [28]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$146'.
+Creating register for signal `$paramod\counter\BITS=32.\count [28]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$146'.
   created $dff cell `$procdff$263' with positive edge clock.
-Creating register for signal `$paramod\counter\BITS=32.\count [27]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$145'.
+Creating register for signal `$paramod\counter\BITS=32.\count [27]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$145'.
   created $dff cell `$procdff$264' with positive edge clock.
-Creating register for signal `$paramod\counter\BITS=32.\count [26]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$144'.
+Creating register for signal `$paramod\counter\BITS=32.\count [26]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$144'.
   created $dff cell `$procdff$265' with positive edge clock.
-Creating register for signal `$paramod\counter\BITS=32.\count [25]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$143'.
+Creating register for signal `$paramod\counter\BITS=32.\count [25]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$143'.
   created $dff cell `$procdff$266' with positive edge clock.
-Creating register for signal `$paramod\counter\BITS=32.\count [24]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$142'.
+Creating register for signal `$paramod\counter\BITS=32.\count [24]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$142'.
   created $dff cell `$procdff$267' with positive edge clock.
-Creating register for signal `$paramod\counter\BITS=32.\count [23]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$141'.
+Creating register for signal `$paramod\counter\BITS=32.\count [23]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$141'.
   created $dff cell `$procdff$268' with positive edge clock.
-Creating register for signal `$paramod\counter\BITS=32.\count [22]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$140'.
+Creating register for signal `$paramod\counter\BITS=32.\count [22]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$140'.
   created $dff cell `$procdff$269' with positive edge clock.
-Creating register for signal `$paramod\counter\BITS=32.\count [21]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$139'.
+Creating register for signal `$paramod\counter\BITS=32.\count [21]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$139'.
   created $dff cell `$procdff$270' with positive edge clock.
-Creating register for signal `$paramod\counter\BITS=32.\count [20]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$138'.
+Creating register for signal `$paramod\counter\BITS=32.\count [20]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$138'.
   created $dff cell `$procdff$271' with positive edge clock.
-Creating register for signal `$paramod\counter\BITS=32.\count [19]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$137'.
+Creating register for signal `$paramod\counter\BITS=32.\count [19]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$137'.
   created $dff cell `$procdff$272' with positive edge clock.
-Creating register for signal `$paramod\counter\BITS=32.\count [18]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$136'.
+Creating register for signal `$paramod\counter\BITS=32.\count [18]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$136'.
   created $dff cell `$procdff$273' with positive edge clock.
-Creating register for signal `$paramod\counter\BITS=32.\count [17]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$135'.
+Creating register for signal `$paramod\counter\BITS=32.\count [17]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$135'.
   created $dff cell `$procdff$274' with positive edge clock.
-Creating register for signal `$paramod\counter\BITS=32.\count [16]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$134'.
+Creating register for signal `$paramod\counter\BITS=32.\count [16]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$134'.
   created $dff cell `$procdff$275' with positive edge clock.
-Creating register for signal `$paramod\counter\BITS=32.\count [15]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$133'.
+Creating register for signal `$paramod\counter\BITS=32.\count [15]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$133'.
   created $dff cell `$procdff$276' with positive edge clock.
-Creating register for signal `$paramod\counter\BITS=32.\count [14]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$132'.
+Creating register for signal `$paramod\counter\BITS=32.\count [14]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$132'.
   created $dff cell `$procdff$277' with positive edge clock.
-Creating register for signal `$paramod\counter\BITS=32.\count [13]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$131'.
+Creating register for signal `$paramod\counter\BITS=32.\count [13]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$131'.
   created $dff cell `$procdff$278' with positive edge clock.
-Creating register for signal `$paramod\counter\BITS=32.\count [12]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$130'.
+Creating register for signal `$paramod\counter\BITS=32.\count [12]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$130'.
   created $dff cell `$procdff$279' with positive edge clock.
-Creating register for signal `$paramod\counter\BITS=32.\count [11]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$129'.
+Creating register for signal `$paramod\counter\BITS=32.\count [11]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$129'.
   created $dff cell `$procdff$280' with positive edge clock.
-Creating register for signal `$paramod\counter\BITS=32.\count [10]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$128'.
+Creating register for signal `$paramod\counter\BITS=32.\count [10]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$128'.
   created $dff cell `$procdff$281' with positive edge clock.
-Creating register for signal `$paramod\counter\BITS=32.\count [9]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$127'.
+Creating register for signal `$paramod\counter\BITS=32.\count [9]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$127'.
   created $dff cell `$procdff$282' with positive edge clock.
-Creating register for signal `$paramod\counter\BITS=32.\count [8]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$126'.
+Creating register for signal `$paramod\counter\BITS=32.\count [8]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$126'.
   created $dff cell `$procdff$283' with positive edge clock.
-Creating register for signal `$paramod\counter\BITS=32.\count [7]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$125'.
+Creating register for signal `$paramod\counter\BITS=32.\count [7]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$125'.
   created $dff cell `$procdff$284' with positive edge clock.
-Creating register for signal `$paramod\counter\BITS=32.\count [6]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$124'.
+Creating register for signal `$paramod\counter\BITS=32.\count [6]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$124'.
   created $dff cell `$procdff$285' with positive edge clock.
-Creating register for signal `$paramod\counter\BITS=32.\count [5]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$123'.
+Creating register for signal `$paramod\counter\BITS=32.\count [5]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$123'.
   created $dff cell `$procdff$286' with positive edge clock.
-Creating register for signal `$paramod\counter\BITS=32.\count [4]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$122'.
+Creating register for signal `$paramod\counter\BITS=32.\count [4]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$122'.
   created $dff cell `$procdff$287' with positive edge clock.
-Creating register for signal `$paramod\counter\BITS=32.\count [3]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$121'.
+Creating register for signal `$paramod\counter\BITS=32.\count [3]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$121'.
   created $dff cell `$procdff$288' with positive edge clock.
-Creating register for signal `$paramod\counter\BITS=32.\count [2]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$120'.
+Creating register for signal `$paramod\counter\BITS=32.\count [2]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$120'.
   created $dff cell `$procdff$289' with positive edge clock.
-Creating register for signal `$paramod\counter\BITS=32.\count [1]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$119'.
+Creating register for signal `$paramod\counter\BITS=32.\count [1]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$119'.
   created $dff cell `$procdff$290' with positive edge clock.
-Creating register for signal `$paramod\counter\BITS=32.\count [0]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$118'.
+Creating register for signal `$paramod\counter\BITS=32.\count [0]' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$118'.
   created $dff cell `$procdff$291' with positive edge clock.
-Creating register for signal `$paramod\counter\BITS=32.\rdata' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:124$112'.
+Creating register for signal `$paramod\counter\BITS=32.\rdata' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:125$112'.
   created $dff cell `$procdff$292' with positive edge clock.
-Creating register for signal `$paramod\counter\BITS=32.\count' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:124$112'.
+Creating register for signal `$paramod\counter\BITS=32.\count' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:125$112'.
   created $dff cell `$procdff$293' with positive edge clock.
-Creating register for signal `$paramod\counter\BITS=32.\ready' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:124$112'.
+Creating register for signal `$paramod\counter\BITS=32.\ready' using process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:125$112'.
   created $dff cell `$procdff$294' with positive edge clock.
 
 5.2.9. Executing PROC_CLEAN pass (remove empty switches from decision trees).
-Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$149'.
-Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$149'.
-Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$148'.
-Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$148'.
-Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$147'.
-Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$147'.
-Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$146'.
-Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$146'.
-Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$145'.
-Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$145'.
-Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$144'.
-Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$144'.
-Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$143'.
-Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$143'.
-Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$142'.
-Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$142'.
-Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$141'.
-Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$141'.
-Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$140'.
-Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$140'.
-Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$139'.
-Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$139'.
-Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$138'.
-Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$138'.
-Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$137'.
-Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$137'.
-Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$136'.
-Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$136'.
-Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$135'.
-Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$135'.
-Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$134'.
-Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$134'.
-Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$133'.
-Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$133'.
-Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$132'.
-Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$132'.
-Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$131'.
-Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$131'.
-Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$130'.
-Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$130'.
-Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$129'.
-Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$129'.
-Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$128'.
-Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$128'.
-Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$127'.
-Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$127'.
-Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$126'.
-Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$126'.
-Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$125'.
-Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$125'.
-Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$124'.
-Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$124'.
-Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$123'.
-Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$123'.
-Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$122'.
-Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$122'.
-Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$121'.
-Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$121'.
-Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$120'.
-Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$120'.
-Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$119'.
-Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$119'.
-Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$118'.
-Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:147$118'.
-Found and cleaned up 7 empty switches in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:124$112'.
-Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:124$112'.
+Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$149'.
+Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$149'.
+Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$148'.
+Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$148'.
+Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$147'.
+Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$147'.
+Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$146'.
+Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$146'.
+Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$145'.
+Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$145'.
+Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$144'.
+Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$144'.
+Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$143'.
+Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$143'.
+Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$142'.
+Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$142'.
+Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$141'.
+Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$141'.
+Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$140'.
+Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$140'.
+Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$139'.
+Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$139'.
+Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$138'.
+Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$138'.
+Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$137'.
+Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$137'.
+Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$136'.
+Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$136'.
+Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$135'.
+Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$135'.
+Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$134'.
+Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$134'.
+Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$133'.
+Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$133'.
+Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$132'.
+Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$132'.
+Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$131'.
+Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$131'.
+Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$130'.
+Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$130'.
+Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$129'.
+Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$129'.
+Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$128'.
+Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$128'.
+Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$127'.
+Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$127'.
+Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$126'.
+Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$126'.
+Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$125'.
+Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$125'.
+Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$124'.
+Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$124'.
+Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$123'.
+Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$123'.
+Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$122'.
+Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$122'.
+Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$121'.
+Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$121'.
+Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$120'.
+Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$120'.
+Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$119'.
+Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$119'.
+Found and cleaned up 1 empty switch in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$118'.
+Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:148$118'.
+Found and cleaned up 7 empty switches in `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:125$112'.
+Removing empty process `$paramod\counter\BITS=32.$proc$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:125$112'.
 Cleaned up 39 empty switches.
 
 5.3. Executing FLATTEN pass (flatten design).
@@ -574,7 +574,7 @@ Optimizing module user_proj_example.
 5.9.16. Finished OPT passes. (There is nothing left to do.)
 
 5.10. Executing WREDUCE pass (reducing word size of cells).
-Removed top 31 bits (of 32) from port B of cell user_proj_example.$flatten\counter.$add$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:131$115 ($add).
+Removed top 31 bits (of 32) from port B of cell user_proj_example.$flatten\counter.$add$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:132$115 ($add).
 
 5.11. Executing PEEPOPT pass (run peephole optimizers).
 
@@ -583,9 +583,9 @@ Finding unused cells or wires in module \user_proj_example..
 
 5.13. Executing ALUMACC pass (create $alu and $macc cells).
 Extracting $alu and $macc cells in module user_proj_example:
-  creating $macc model for $flatten\counter.$add$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:131$115 ($add).
-  creating $alu model for $macc $flatten\counter.$add$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:131$115.
-  creating $alu cell for $flatten\counter.$add$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:131$115: $auto$alumacc.cc:485:replace_alu$334
+  creating $macc model for $flatten\counter.$add$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:132$115 ($add).
+  creating $alu model for $macc $flatten\counter.$add$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:132$115.
+  creating $alu cell for $flatten\counter.$add$/project/openlane/user_proj_example/../../verilog/rtl/user_proj_example.v:132$115: $auto$alumacc.cc:485:replace_alu$334
   created 1 $alu and 0 $macc cells.
 
 5.14. Executing SHARE pass (SAT-based resource sharing).
@@ -1073,24 +1073,24 @@ Mapping DFF cells in module `\user_proj_example':
 
 12. Executing ABC pass (technology mapping using ABC).
 
-12.1. Extracting gate netlist of module `\user_proj_example' to `/tmp/yosys-abc-3d2WKh/input.blif'..
+12.1. Extracting gate netlist of module `\user_proj_example' to `/tmp/yosys-abc-e6bUgR/input.blif'..
 Extracted 348 gates and 523 wires to a netlist network with 174 inputs and 99 outputs.
 
 12.1.1. Executing ABC.
-Running ABC command: /build/bin/yosys-abc -s -f /tmp/yosys-abc-3d2WKh/abc.script 2>&1
-ABC: ABC command line: "source /tmp/yosys-abc-3d2WKh/abc.script".
+Running ABC command: /build/bin/yosys-abc -s -f /tmp/yosys-abc-e6bUgR/abc.script 2>&1
+ABC: ABC command line: "source /tmp/yosys-abc-e6bUgR/abc.script".
 ABC: 
-ABC: + read_blif /tmp/yosys-abc-3d2WKh/input.blif 
+ABC: + read_blif /tmp/yosys-abc-e6bUgR/input.blif 
 ABC: + read_lib -w /project/openlane/user_proj_example/runs/user_proj_example/tmp/trimmed.lib 
-ABC: Parsing finished successfully.  Parsing time =     0.02 sec
+ABC: Parsing finished successfully.  Parsing time =     0.01 sec
 ABC: Scl_LibertyReadGenlib() skipped sequential cell "sky130_fd_sc_hd__dfbbn_2".
 ABC: Scl_LibertyReadGenlib() skipped sequential cell "sky130_fd_sc_hd__dfrbp_2".
 ABC: Scl_LibertyReadGenlib() skipped sequential cell "sky130_fd_sc_hd__dfrtp_4".
 ABC: Scl_LibertyReadGenlib() skipped sequential cell "sky130_fd_sc_hd__dfstp_4".
 ABC: Scl_LibertyReadGenlib() skipped sequential cell "sky130_fd_sc_hd__dfxbp_2".
 ABC: Scl_LibertyReadGenlib() skipped sequential cell "sky130_fd_sc_hd__dfxtp_4".
-ABC: Library "sky130_fd_sc_hd__tt_025C_1v80" from "/project/openlane/user_proj_example/runs/user_proj_example/tmp/trimmed.lib" has 43 cells (6 skipped: 6 seq; 0 tri-state; 0 no func; 0 dont_use).  Time =     0.03 sec
-ABC: Memory =    1.82 MB. Time =     0.03 sec
+ABC: Library "sky130_fd_sc_hd__tt_025C_1v80" from "/project/openlane/user_proj_example/runs/user_proj_example/tmp/trimmed.lib" has 43 cells (6 skipped: 6 seq; 0 tri-state; 0 no func; 0 dont_use).  Time =     0.02 sec
+ABC: Memory =    1.82 MB. Time =     0.02 sec
 ABC: + read_constr -v /project/openlane/user_proj_example/runs/user_proj_example/tmp/synthesis/yosys.sdc 
 ABC: Setting driving cell to be "sky130_fd_sc_hd__inv_8".
 ABC: Setting output load to be 17.650000.
@@ -1290,7 +1290,7 @@ ABC: Path 14 --     677 : 3    1 sky130_fd_sc_hd__and3_4  A =  11.26  Df =3976.3
 ABC: Start-point = pi97 (\wbs_cyc_i).  End-point = po98 ($auto$rtlil.cc:2290:MuxGate$1713).
 ABC: + print_stats -m 
 ABC: netlist                       : i/o =  174/   99  lat =    0  nd =   404  edge =    954  area =4298.70  delay =16.00  lev = 16
-ABC: + write_blif /tmp/yosys-abc-3d2WKh/output.blif 
+ABC: + write_blif /tmp/yosys-abc-e6bUgR/output.blif 
 
 12.1.2. Re-integrating ABC results.
 ABC RESULTS:   sky130_fd_sc_hd__a211o_4 cells:       14
@@ -1673,6 +1673,6 @@ found and reported 237 problems.
 Dumping module `\user_proj_example'.
 
 Warnings: 301 unique messages, 301 total
-End of script. Logfile hash: c81f427594, CPU: user 0.82s system 0.02s, MEM: 44.71 MB peak
+End of script. Logfile hash: 2f08a892d5, CPU: user 0.53s system 0.05s, MEM: 44.88 MB peak
 Yosys 0.9+3621 (git sha1 84e9fa7, gcc 8.3.1 -fPIC -Os)
-Time spent: 42% 2x abc (0 sec), 20% 4x stat (0 sec), ...
+Time spent: 37% 2x abc (0 sec), 22% 4x stat (0 sec), ...

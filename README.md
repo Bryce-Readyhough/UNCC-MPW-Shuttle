@@ -22,7 +22,7 @@ To setup and install the repo for development:</br>
 			<ol>
 				<li>Install Skywater PDK</li>
 					<code>
-					export PDK_ROOT=<Absolute path where PDKs will be installed>
+					export PDK_ROOT=(Absolute path where PDKs will be installed)
 					cd $PDK_ROOT
 					git clone https://github.com/google/skywater-pdk
 					cd skywater-pdk

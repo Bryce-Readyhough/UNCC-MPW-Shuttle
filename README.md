@@ -8,5 +8,29 @@ TODO: Add block diagram
 [comment]: <> (<img src="/doc/ciic_harness.png" width="75%" height="75%"> )
 [comment]: <> (</p>)
 
-#Installation and Usage
+# Installation and Usage
+To setup and install the repo for development:</br>
 
+1. Install prerequisite tools:</br>
+  a. Install [Magic VLSI Layout Tool](http://opencircuitdesign.com/magic/)</br>
+     Note: As of the writing of this document the tool must be installed from sourcecode. The packaged version is not up to date for use with this repo.</br></br>
+  b. Install [KLayout VLSI Layout Tool](https://www.klayout.de/build.html)</br></br>
+  c. Install [SkywaterPDK](https://github.com/google/skywater-pdk) and [OpenPDK](https://github.com/RTimothyEdwards/open_pdks):
+  ```
+  export PDK_ROOT=<Absolute path where PDKs will be installed>
+  cd $PDK_ROOT
+  git clone https://github.com/google/skywater-pdk
+  cd skywater-pdk
+  git submodule init libraries/sky130_fd_io/latest
+  git submodule init libraries/sky130_fd_pr/latest
+  git submodule init libraries/sky130_fd_sc_hd/latest
+  git submodule init libraries/sky130_fd_sc_hdll/latest
+  git submodule init libraries/sky130_fd_sc_hs/latest
+  git submodule init libraries/sky130_fd_sc_ms/latest
+  git submodule init libraries/sky130_fd_sc_ls/latest
+  git submodule init libraries/sky130_fd_sc_lp/latest
+  git submodule init libraries/sky130_fd_sc_hvl/latest
+  git submodule update
+  make timing
+  
+  ```

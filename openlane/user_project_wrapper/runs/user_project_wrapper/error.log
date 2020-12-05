@@ -1,0 +1,4 @@
+during executing: "python3 /openLANE_flow/scripts/io_place.py --input-lef /project/openlane/user_project_wrapper/runs/user_project_wrapper/tmp/merged.lef --input-def /project/openlane/user_project_wrapper/runs/user_project_wrapper/tmp/floorplan/verilog2def_openroad.def --config /project/openlane/user_project_wrapper/pin_order.cfg --hor-layer 4 --ver-layer 3 --ver-width-mult 4 --hor-width-mult 4 --length-mult 2.4 -o /project/openlane/user_project_wrapper/runs/user_project_wrapper/tmp/floorplan/ioPlacer.def |& tee /project/openlane/user_project_wrapper/runs/user_project_wrapper/logs/floorplan/place_io_ol.log >&@stdout"
+Last 10 lines:
+child process exited abnormally
+

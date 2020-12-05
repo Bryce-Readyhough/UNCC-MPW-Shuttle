@@ -1,0 +1,4 @@
+during executing: "magic -noconsole -dnull -rcfile /home/bryce/newpdks//sky130A/libs.tech/magic/sky130A.magicrc /openLANE_flow/scripts/magic.tcl </dev/null |& tee >&@stdout /project/openlane/user_proj_example/runs/user_proj_example/logs/magic/magic.log"
+Last 10 lines:
+child killed: segmentation violation
+

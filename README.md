@@ -21,6 +21,7 @@ To setup and install the repo for development:</br>
 		<li>Install [SkywaterPDK](https://github.com/google/skywater-pdk) and [OpenPDK](https://github.com/RTimothyEdwards/open_pdks):</li>
 			<ol>
 				<li>Install Skywater PDK</li>
+				
 					```
 					export PDK_ROOT=<Absolute path where PDKs will be installed>
 					cd $PDK_ROOT
@@ -38,7 +39,9 @@ To setup and install the repo for development:</br>
 					git submodule update
 					make timing
 					```
+					
 				<li>Install OpenPDKs</li>
+				
 					```
 					git clone https://github.com/RTimothyEdwards/open_pdks.git
 					cd open_pdks
@@ -47,6 +50,7 @@ To setup and install the repo for development:</br>
 					make
 					make install-local
 					```
+					
 			</ol>
 		</li> Test Line Item </li>
 	</ol>

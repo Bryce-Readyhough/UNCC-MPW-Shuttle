@@ -21,6 +21,7 @@ To setup and install the repo for development:</br>
 		<li>Install [SkywaterPDK](https://github.com/google/skywater-pdk) and [OpenPDK](https://github.com/RTimothyEdwards/open_pdks):</li>
 			<ol>
 				<li>Install Skywater PDK</li>
+				
 					export PDK_ROOT=(Absolute path where PDKs will be installed)
 					cd $PDK_ROOT
 					git clone https://github.com/google/skywater-pdk
@@ -36,14 +37,15 @@ To setup and install the repo for development:</br>
 					git submodule init libraries/sky130_fd_sc_hvl/latest
 					git submodule update
 					make timing
-				<li>Install OpenPDKs</li>
+<li>Install OpenPDKs</li>
+
 					git clone https://github.com/RTimothyEdwards/open_pdks.git
 					cd open_pdks
 					./configure --with-sky130-source=$PDK_ROOT/skywater-pdk/libraries --with-sky130-local-path=$PDK_ROOT
 					cd sky130
 					make
 					make install-local
-			</ol>
+</ol>
 		</li> Test Line Item </li>
 	</ol>
 </ol>

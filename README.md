@@ -46,8 +46,7 @@ To setup and install the repo for development:</br>
 	make
 	make install-local
 </ol>
-		</li> Test Line Item </li>
-	</ol>
+</ol>
 </ol>
  
 TODO: Finish Install instructions

@@ -28,6 +28,7 @@ A 2x2 array of nfet sonos cells with transistor sizing 420nmx150nm.
 <p align=”center”>
 <img src="/doc/sonos.png" width="75%"> 
 </p>
+
 ### pinout
 | node | pad         |
 |------|-------------|
